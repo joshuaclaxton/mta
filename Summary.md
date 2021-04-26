@@ -1,0 +1,7 @@
+# Project summary
+
+
+
+-  My project aimed to depict ridership in the 5 stations of Brooklyn with the most arrests in the second quarter of 2019 per the NYPD "Subway Fare Evasion Reports". I was interested in this timeline and topic because around this time the Metropolitan Transportation Authority (MTA) was losing about 300 million dollars a year due to fare evasion while the annual operating budget was somewhere between 4-5 billion dollars. The MTA suffers from dilapidated infrastructure and inefficiencies that irk commuters to no end. In June 2019, state, city, and transit officials turned to fare evasion as a crucial source of the absent funds needed to repair the New York City's public transit system. To crackdown on the "theft of services", 500 officers were deployed throughout the transit system, costing the MTA approximately 50 million dollars annually. Many activists, public defenders, and policy makers articulated concerens about the class and racial implications of such a deployment. However, officials and prosecutors in favor of the initiative said arrests would not increase and that the measure was for "deterrence". I assume the hope was to subsequently see an increase in ridership as less people evade the fare. The graphs I created for the project, demonstrating ridership from april through june of 2019, could be part of a larger study examining if ridership did increase while police presence simultaneously increased. 
+
+
