@@ -6,5 +6,7 @@ Description
 
 
 Approximately 5 minute EDA project video recording 
+
 Project Slide Deck
+
 Code and 1 page summary of project 
